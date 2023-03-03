@@ -15,7 +15,7 @@
     </header>
 
     <nav>
-        <a href="form-daftar.php">[+} Tambah Baru</a>
+        <a href="form-daftar.php">[+] Tambah Baru</a>
     </nav>
     <br>
 

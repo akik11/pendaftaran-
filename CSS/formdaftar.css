@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: helvetica;
+}
+h3 {
+    text-align: center;
+    font-size: 25px;
+}
+fieldset {
+    margin: 15px;
+    border-radius: 5px;
+    background: rgb(233, 233, 233);
+    border: 0;
+    padding: 20px;
+}
+table {
+    width: 100%;
+}
+table input[type="text"], textarea {
+    width: 98%;
+    border-radius: 3px;
+    border: 1px solid rgb(192, 192, 192);
+    margin: 5px;
+    padding: 8px;
+}
+table select {
+    width: 190px;
+    border-radius: 3px;
+    margin: 5px;
+    border: 1px solid rgb(192, 192, 192);
+    padding: 8px;
+}
+table input[type="radio"] {
+    margin: 5px;
+}
+table input[type="submit"] {
+    float: right;
+    background-color: rgb(72, 170, 48);
+    padding: 7px 30px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 7px;
+}
+table input[type="reset"] {
+    float: right;
+    margin: 7px;
+    background-color: rgb(170, 48, 48);
+    padding: 7px 30px;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
